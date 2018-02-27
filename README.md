@@ -1,2 +1,2 @@
 # data-structures
-Chrome extension which downloads all the tables visible on web page in excel sheet.
+Contains solutions to some of the data structure problems.
